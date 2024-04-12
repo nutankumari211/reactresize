@@ -1,3 +1,5 @@
+# Hosting Link - https://whimsical-kelpie-df0f37.netlify.app/
+
 # React Rnd Component Resizing and Positioning
 This project demonstrates how to use the react-rnd library to create resizable and draggable components in a React application. It also includes functionality to maintain a consistent distance between the components when they are resized or dragged.
 
